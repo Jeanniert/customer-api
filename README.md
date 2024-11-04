@@ -37,7 +37,8 @@ Para instalar este proyecto en tu entorno local, sigue estos pasos:
 - Abre http://localhost:8000 o en su defecto http://127.0.0.1:8000
 
 
-## Documentacion de la Apis ( ENDPOINT ):
+## Documentacion de la Apis:
+ Tambien puedes consultar los endpoints de la apis ejecutando el servidor `php artisan serve` y accediendo a la url http://127.0.0.1:8000/api/docs o en su defecto http://localhost:8000/api/docs  ya que esta Apis cuenta con Swagger que es un conjunto de herramientas de software de código abierto que nos permiten diseñar, construir, documentar y utilizar nuestros servicios web RESTful. 
 
 ### Auth
 
