@@ -46,7 +46,7 @@ Para instalar este proyecto en tu entorno local, sigue estos pasos:
 | -------- | ---------------------------------------- | ---------------------------------------- |
 | `POST`   | `/api/auth/login`                        | Sign in.                                 |
 | `POST`   | `/api/auth/register`                     | Register User.                           |
-| `GET`    | `/api/logout`                           | Sign in (you must be logged in to use this endpoint.).                    |
+| `GET`    | `/api/v1/logout`                           | Sign in (you must be logged in to use this endpoint.).                    |
 
 
 
